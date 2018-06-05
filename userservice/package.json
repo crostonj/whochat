@@ -1,0 +1,19 @@
+{
+  "name": "userservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crostonj/whochat.git"
+  },
+  "author": "Jeff Croston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crostonj/whochat/issues"
+  },
+  "homepage": "https://github.com/crostonj/whochat#readme"
+}
