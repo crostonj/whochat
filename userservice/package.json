@@ -1,7 +1,7 @@
 {
   "name": "userservice",
   "version": "1.0.0",
-  "description": "",
+  "description": "Service for querying user data",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,22 @@
   "bugs": {
     "url": "https://github.com/crostonj/whochat/issues"
   },
-  "homepage": "https://github.com/crostonj/whochat#readme"
+  "homepage": "https://github.com/crostonj/whochat#readme",
+  "dependencies": {
+    "@angular/common": "^6.0.3",
+    "@angular/core": "^6.0.3",
+    "@angular/http": "^6.0.3",
+    "@angular/platform-browser": "^6.0.3",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "jsonwebtoken": "^8.2.2",
+    "mongoose": "^5.1.4",
+    "mongoose-unique-validator": "^2.0.1",
+    "rxjs": "^6.2.0",
+    "zone.js": "^0.8.26"
+  }
 }
